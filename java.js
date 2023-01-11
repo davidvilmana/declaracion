@@ -2,8 +2,8 @@ const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
     alert('SABIA QUE DIRIAS SI')
-    alert('ME HACES LA PERSONA MAS FELIZ')
-    alert("ERES UNA PERSONA HUMILDE Y AMABLE")
+    alert('🤣')
+    alert("ERES UNA PERSONA AMABLE")
 });
 
 const noBtn = document.querySelector('#noBtn');
