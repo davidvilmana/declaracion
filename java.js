@@ -3,7 +3,7 @@ const yesBtn = document.querySelector('#yesBtn');
 yesBtn.addEventListener('click',function () {
     alert('SABIA QUE DIRIAS SI')
     alert('ME HACES LA PERSONA MAS FELIZ')
-    alert("Eres mi personita favorita ")
+    alert("ERES UNA PERSONA HUMILDE Y AMABLE")
 });
 
 const noBtn = document.querySelector('#noBtn');
